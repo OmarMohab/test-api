@@ -133,5 +133,49 @@
       "department_name": "Accounting"
     }
   ],
-  "tasks": []
+  "tasks": [
+    {
+      "text": "Implement Tasks App using Angular Signals",
+      "id": 1,
+      "isComplete": true
+    },
+    {
+      "text": "Improve UI by using Telerik Kendu UI",
+      "id": 2
+    },
+    {
+      "text": "Implement BehaviorSubject for employees and departments",
+      "id": 3,
+      "isComplete": true
+    },
+    {
+      "text": "Utilize HttpClient to make API calls",
+      "id": 4,
+      "isComplete": true
+    },
+    {
+      "text": "Implement Employee Add/Edit form using reactive forms",
+      "id": 5,
+      "isComplete": true
+    },
+    {
+      "text": "Implement Employees table with filtering, sorting and pagination ",
+      "id": 6,
+      "isComplete": true
+    },
+    {
+      "text": "Implemet Depratments Sizes pie chart using ng2-charts",
+      "id": 7,
+      "isComplete": true
+    },
+    {
+      "text": "Implement real-time translation feature",
+      "id": 8
+    },
+    {
+      "text": "Implement navigation using Angular Router",
+      "id": 9,
+      "isComplete": true
+    }
+  ]
 }
